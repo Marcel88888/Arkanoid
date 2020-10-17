@@ -11,11 +11,11 @@ Typical Arkanoid game for Android
 Project made for the subject Applications for Mobile Devices on the Universitat de Valencia during my Erasmus+ exchange. The project was made to get familiar with prototyping mobile applications using Processing.
 
 ## Screenshots
-![screenshot1](img/screenshot1.jpg =270x480)
-![screenshot2](img/screenshot2.jpg)
-![screenshot3](img/screenshot3.jpg)
-![screenshot4](img/screenshot4.jpg)
-![screenshot5](img/screenshot5.jpg)
+<img src="img/screenshot1.jpg" alt="drawing" width="270" height="480"/>
+<img src="img/screenshot2.jpg" alt="drawing" width="270" height="480"/>
+<img src="img/screenshot3.jpg" alt="drawing" width="270" height="480"/>
+<img src="img/screenshot4.jpg" alt="drawing" width="270" height="480"/>
+<img src="img/screenshot5.jpg" alt="drawing" width="270" height="480"/>
 
 ## Technologies
 * Processing - version 3.5.4
